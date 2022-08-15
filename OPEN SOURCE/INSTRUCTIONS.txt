@@ -1,0 +1,34 @@
+HOW TO USE:
+
+Firstly, double click the "DOUBLE CLICK TO RUN ME.EXE" file, 
+
+while double clicking, clap your hand SLIGHTLY until it plays sound "dun dun dun" 
+(optional, just for adjusting the assistant)
+
+list of commands:
+
+see you later, bye, goodbye, (pause assistant)
+
+hey assistant
+play a song
+song
+play some music
+play some random songs
+
+switch to online mode
+switch to offline mode (default)
+
+
+I am stressed
+
+tell a joke
+tell me a joke
+joke
+game (available on online mode only)
+
+help me
+
+and
+many more functions
+
+
